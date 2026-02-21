@@ -17,3 +17,15 @@ print(f"|| Course  : {course:<20}||")
 print(f"|| College : {college:<20}||")
 print(f"|| Email   : {email:<20}||")
 print("||===============================||")
+
+
+#output:
+#||===============================||
+#||       STUDENT BIO CARD        ||
+#||===============================||
+#|| Name    : Swaroop Sannakki    ||
+#|| Age     : 21 years            ||
+#|| Course  : Generative AI       ||
+#|| College : M S R I T Bangalore ||
+#|| Email   : swaroop@gmail.com   ||
+#||===============================||
